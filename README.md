@@ -38,4 +38,4 @@ de modo que fique assim:
 ```
 vou deixar este código disponível no meu colab, só clicar no link abaixo:
 
-https://colab.research.google.com/drive/1lgw245SY-gqhja7KfA5YRWLQnupJWGL6?usp=sharing
+https://colab.research.google.com/drive/1Z8iqcXEe-T-n1JLGMmmYP2hHnJlCGobE?usp=sharing
